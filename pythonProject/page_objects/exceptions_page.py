@@ -46,6 +46,3 @@ class Exceptions(BasePage):
 
     def are_instructions_displayed(self) -> bool:
         super()._is_displayed(self.__instructions_element)
-
-
-

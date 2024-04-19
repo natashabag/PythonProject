@@ -1,5 +1,5 @@
 import pytest
-from page_objects.exceptions import Exceptions
+from page_objects.exceptions_page import Exceptions
 
 
 class TestExceptions:

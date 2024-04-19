@@ -1,11 +1,10 @@
 import time
 import pytest
-from page_objects.logged_in_successfully import LoggedInSuccessfullyPage
+from page_objects.logged_in_successfully_page import LoggedInSuccessfullyPage
 from page_objects.login_page import LoginPage
 
 
 class TestPositiveScenarios:
-
     @pytest.mark.login
     @pytest.mark.positive
     def test_positive_login(self, driver):

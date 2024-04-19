@@ -1,6 +1,5 @@
-import time
 import pytest
-from selenium.webdriver.common.by import By
+
 
 from page_objects.login_page import LoginPage
 

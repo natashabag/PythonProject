@@ -1,4 +1,3 @@
-import time
 import pytest
 from page_objects.logged_in_successfully_page import LoggedInSuccessfullyPage
 from page_objects.login_page import LoginPage

@@ -1,3 +1,5 @@
-#### Heading4 My first Python Project 
+#### My first Python Project 
 
-Udemy Course: Selenium WebDriver: Selenium Automation Testing with Python 
+This goal of this project is to practice test automation with Selenium Webdriver 
+
+👩🏻‍💻 Udemy Course: Selenium WebDriver: Selenium Automation Testing with Python 
